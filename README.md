@@ -9,3 +9,9 @@ Managing investments across multiple investors, funds, and portfolios is complex
 
 **Challenge:**
 To create a system that simplifies portfolio management and provides better visibility into investments.
+# **Project Objectives**
+
+* Develop a centralized platform to manage investor funds, portfolios, and investments.
+* Enable employees to efficiently manage multiple assigned portfolios.
+* Provide easy tracking of fund allocation, investment details, and portfolio performance.
+* Simplify investment management through organized portfolio data and analytics.

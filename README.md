@@ -24,3 +24,14 @@ Database: MySQL
 Data Access: JDBC
 Development Tools: IntelliJ IDEA, VS Code, Postman
 Version Control: Git and GitHub
+
+Slide 4: Employee Dashboard & Portfolio Management
+Employee Dashboard
+
+A personalized dashboard that allows employees to access and manage their assigned portfolios.
+
+Key Capabilities
+Secure employee access through Employee ID
+View all assigned investor portfolios
+Create, update, delete, and manage portfolios
+Manage multiple portfolios under a single employee

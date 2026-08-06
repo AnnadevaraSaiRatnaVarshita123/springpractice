@@ -108,3 +108,7 @@ Understanding and configuring automated build and deployment processes using Jen
 
 
 ✅ Profit/Loss comparison chart.Give me like one line sentence not one point.I asked for sentences then dont generate big lines?
+
+AI-based investment recommendations to suggest optimal asset allocation based on risk profile, market trends, and investment goals.
+Machine Learning-powered portfolio prediction and optimization to analyze market data and improve investment decisions.
+Generative AI financial assistant to provide automated reports, insights, and personalized investment guidance.

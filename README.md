@@ -92,4 +92,19 @@ Remaining Fund     ₹2,50,000
 ✅ Performance line chart
 (Portfolio value trend over time)
 
+# **Challenges Faced**
+
+**Merge Conflicts:**
+Managing parallel development by multiple team members and resolving conflicts while integrating changes into the shared repository.
+
+**Frontend & Backend Integration:**
+Connecting the user interface with backend services and ensuring smooth communication between different application layers.
+
+**API Integration:**
+Implementing and debugging REST API calls to ensure accurate data exchange between frontend, backend, and database.
+
+**CI/CD Pipeline Setup:**
+Understanding and configuring automated build and deployment processes using Jenkins for continuous integration.
+
+
 ✅ Profit/Loss comparison chart.Give me like one line sentence not one point.I asked for sentences then dont generate big lines?

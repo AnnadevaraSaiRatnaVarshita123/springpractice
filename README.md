@@ -15,3 +15,12 @@ To create a system that simplifies portfolio management and provides better visi
 * Enable employees to efficiently manage multiple assigned portfolios.
 * Provide easy tracking of fund allocation, investment details, and portfolio performance.
 * Simplify investment management through organized portfolio data and analytics.
+
+Technology Stack
+
+Frontend: HTML, CSS, JavaScript
+Backend: Java, Spring Boot, REST APIs
+Database: MySQL
+Data Access: JDBC
+Development Tools: IntelliJ IDEA, VS Code, Postman
+Version Control: Git and GitHub

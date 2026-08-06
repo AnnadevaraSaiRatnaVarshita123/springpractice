@@ -62,3 +62,34 @@ Supported Assets
 📄 Bonds
 📊 Mutual Funds
 💵 Cash.Give me in sentence not bullet points
+
+Fund Management & Portfolio Analytics
+Fund Management
+
+Tracks investor funds and monitors their utilization within portfolios.
+
+Key Metrics
+Total Allocated Fund
+Invested Amount
+Remaining Balance
+Profit / Loss
+Portfolio Returns
+Market Integration & Analytics
+Integrated live market data for asset price updates
+Enables real-time portfolio valuation
+Supports buy and sell operations
+Provides performance trends through interactive charts and graphs
+Visuals to Add
+
+✅ Fund utilization cards
+
+Allocated Fund     ₹10,00,000
+
+Invested Fund      ₹7,50,000
+
+Remaining Fund     ₹2,50,000
+
+✅ Performance line chart
+(Portfolio value trend over time)
+
+✅ Profit/Loss comparison chart.Give me like one line sentence not one point.I asked for sentences then dont generate big lines?

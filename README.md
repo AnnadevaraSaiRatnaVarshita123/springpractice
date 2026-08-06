@@ -35,3 +35,30 @@ Secure employee access through Employee ID
 View all assigned investor portfolios
 Create, update, delete, and manage portfolios
 Manage multiple portfolios under a single employee
+
+Slide 5: Portfolio Overview & Investment Management
+Portfolio Overview
+
+Provides a complete view of portfolio information and investment status.
+
+Portfolio Summary Includes
+Investor details
+Fund allocation summary
+Used and remaining funds
+Investment holdings
+Portfolio performance overview
+Investment Management
+
+Employees can:
+
+✔ Add new investments
+✔ View investment details
+✔ Update holdings
+✔ Buy and Sell assets
+
+Supported Assets
+
+📈 Stocks
+📄 Bonds
+📊 Mutual Funds
+💵 Cash.Give me in sentence not bullet points

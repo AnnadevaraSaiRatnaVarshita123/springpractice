@@ -106,6 +106,13 @@ Implementing and debugging REST API calls to ensure accurate data exchange betwe
 **CI/CD Pipeline Setup:**
 Understanding and configuring automated build and deployment processes using Jenkins for continuous integration.
 
+### **Conclusion**
+
+1. **Portfolio Manager provides an efficient platform for managing investor funds by enabling employees to handle multiple portfolios, allocate funds across different asset types like stocks, bonds, mutual funds, and cash, and monitor investment details in a centralized system.**
+
+2. **The application simplifies portfolio operations through portfolio management, investment tracking, fund utilization analysis, and performance monitoring, with future enhancements such as live market integration, buy/sell transactions, and AI-based investment predictions.**
+
+
 
 ✅ Profit/Loss comparison chart.Give me like one line sentence not one point.I asked for sentences then dont generate big lines?
 
